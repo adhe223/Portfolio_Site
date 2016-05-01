@@ -32,6 +32,11 @@ h6,
 }
 body {
   overflow-x: hidden;
+  background-color: #DFE9F2;
+}
+
+hr {
+	border-color: #383E4C;
 }
 
 img {
@@ -225,7 +230,7 @@ h2 {
     color: #666666;
 }
 .testimonial-content {
-  background-color: #f2f2f2;
+  background-color: #d9d9d9;
   height: 500px;
   max-width: 260px;
   margin: 0 auto 30px;
@@ -351,7 +356,7 @@ input {
    /* padding-top: 150px;*/
 }
 .tm-box {
-  background-color: #F2F2F2;
+  background-color: #d9d9d9;
   max-width: 1140px;
   width: 100%;
 }
